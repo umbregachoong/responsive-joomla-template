@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="template">
+	<name>Redesign Test1</name>
+	<creationDate>6-1-2012</creationDate>
+	<author>umbre gachoong</author>
+	<authorEmail>umbre.gachoong@gmail.com</authorEmail>
+	<copyright>umbre gachoong 2012</copyright>
+	<license>GNU/GPL</license>
+	<version>2.0</version>
+	<description>Test2 template</description>
+	<files>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<folder>images</folder>
+		<folder>css</folder>
+	</files>
+	<positions>
+		<position>breadcrumb</position>
+		<position>left</position>
+		<position>right</position>
+		<position>top</position>
+		<position>footer</position>
+	</positions>
+</extension>
